@@ -1,0 +1,1 @@
+{"Loss": 8.720620456870165e-07, "_runtime": 20, "_timestamp": 1633506009, "_step": 399, "Val Loss": 5.2322950068628415e-05, "Acc": 100.0, "Val Acc": 100.0, "_wandb": {"runtime": 19}}
